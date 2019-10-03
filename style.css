@@ -1,0 +1,80 @@
+body{
+  background-color: hsl(217, 28%, 15%);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: white;
+}
+h1, h2, h3, h4, h5, h6{
+font-family:"Raleway", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+/*secion hero*/
+
+section.hero-section {
+padding: 70px 0;
+max-width: 700px;
+margin: 0 auto;
+}
+
+section.hero-section img {
+width: 100%;
+}
+
+section.hero-section h1 {
+  margin: 30px 0;
+}
+
+section.hero-section p {
+  margin-bottom: 40px;
+}
+
+section.hero-section button.btn {
+  background-color:  hsl(176, 68%, 64%);
+  border-radius:40px;
+  border: none;
+  padding: 10px 70px;
+}
+/*secion service*/
+
+section.services-section {
+  padding: 70px 0;
+  max-width: 800px;
+  margin: 0 auto;
+
+}
+
+section.services-section article {
+  padding: 0 30px;
+  margin-bottom: 50px;
+}
+
+section.services-section article.uno {
+  width: 100%;
+
+  margin-left:
+
+}
+section.services-section article.dos {
+  width:100%;
+
+}
+
+section.services-section article.tres {
+  width: 100%;
+
+}
+section.services-section article.cuatro {
+ width: 100%;
+
+}
+
+/*section works*/
+
+section.works-section {
+
+}
+
+section.works-section img {
+  width: 100%;
+}
